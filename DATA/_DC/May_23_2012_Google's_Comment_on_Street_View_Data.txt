@@ -1,0 +1,3 @@
+In Wednesday’s New York Times, David Streitfeld and Kevin J. O’Brien wrote about Google’s Street View project , an ambitious endeavor to map the world by sending specially equipped cars out to photograph every street. The cars also collected data sent over unencrypted wireless networks. That so-called payload data contained bits of personal e-mails and Internet postings and searches — whatever someone was doing on a computer as the car passed by. The collection of that data, as the article recounts, has been the subject of numerous investigations in the United States and elsewhere.
+
+On Wednesday, a Google spokesman in Germany issued this statement:
