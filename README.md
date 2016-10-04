@@ -7,7 +7,7 @@
 4. The issue of multilabels also needs to be addressed. http://scikit-learn.org/dev/modules/multiclass.html
 
 
-**Follow-up to Section 1/2 Walkthrough:**
+**Follow-up to Section 1,2 Walkthrough:**
 
 1. SYSTEM: 
 Ideally you can view the walkthrough in an ipython notebook. For instance, pandas, an ipython tool is heavily used in the walkthrough
